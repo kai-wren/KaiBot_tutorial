@@ -1,2 +1,6 @@
-test_ignore.txt
-ignore_folder
+.vscode
+env
+pipfile*
+tokens.py
+*pycache*
+Telegram.txt
